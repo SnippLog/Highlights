@@ -1,0 +1,16 @@
+PODS:
+  - Highlights (1.0)
+
+DEPENDENCIES:
+  - Highlights (from `../Highlights`)
+
+EXTERNAL SOURCES:
+  Highlights:
+    :path: "../Highlights"
+
+SPEC CHECKSUMS:
+  Highlights: 42964e0a030662485408ff3f9e55ea09d6621140
+
+PODFILE CHECKSUM: 3cdb9ca43c0efc81879fb5ed13d684653c87fa3a
+
+COCOAPODS: 1.10.2

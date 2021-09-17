@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="java_code">public class SwapNumbers {      \npublic static void main(String[] args) {          \nfloat first = 1.20d, \nsecond = 2.45f; \n0x000000          \nSystem.out.println(\"—Before swap—\");     System.out.println(\'First number = \' + first);     \nSystem.out.println(\"\"\"Second number = \"\"\" + second);      \n// Value of first is assigned to temporary     \nfloat temporary = first;      \n// Value of second is assigned to first     \nfirst = second;      \n// Value of temporary (which contains the initial value of first) is assigned to second     second = temporary;      System.out.println(\"—After swap—\");     System.out.println(\"First number = \" + first);     System.out.println(\"Second number = \" + second);     }  \nload(1234567890-)   }</string>
+    <string name="input_code_template">fun main() {
+    \n// Start writing your code here…
+    \nprintln("Hello world")
+        \n} </string>
+</resources>
