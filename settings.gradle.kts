@@ -7,5 +7,5 @@ pluginManagement {
 }
 
 rootProject.name = "Highlights"
-include(":androidSample")
+include(":androidHighlights")
 include(":Highlights")
